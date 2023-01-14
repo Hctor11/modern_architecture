@@ -1,1 +1,20 @@
-/*# sourceMappingURL=Styles.css.map */
+@import url("https://fonts.googleapis.com/css2?family=Figtree:wght@300;500;600;700;900&display=swap");
+html {
+  font-family: "Figtree", sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+main .principal-description {
+  width: 300px;
+  height: 250px;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  left: 40vw;
+  top: 20vh;
+}
+main .principal-description .principal-text {
+  margin: 0;
+}/*# sourceMappingURL=Styles.css.map */
