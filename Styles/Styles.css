@@ -28,6 +28,7 @@ main .principal-description {
   color: #081135;
 }
 main .principal-description .principal-text {
+  display: inline-block;
   margin: 0;
 }
 main .img1 {
