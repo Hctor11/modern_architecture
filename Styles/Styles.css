@@ -15,6 +15,10 @@ html {
   background-color: #FCF0EE;
 }
 
+body {
+  margin: 0 30px;
+}
+
 main .principal-description {
   width: 300px;
   height: 250px;
@@ -40,4 +44,11 @@ main .img2 {
   width: 300px;
   height: 300px;
   background-image: url("https://images.unsplash.com/photo-1523349091944-ac02b8df7062?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=788&q=80");
+}
+
+@media only screen and (min-width: 768px) {
+  main .img1 {
+    width: 500px;
+    height: 350px;
+  }
 }/*# sourceMappingURL=Styles.css.map */
