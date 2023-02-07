@@ -48,7 +48,10 @@ main .img2 {
 
 @media only screen and (min-width: 768px) {
   main .img1 {
-    width: 500px;
+    width: 700px;
     height: 350px;
+  }
+  main .img2 {
+    height: 400px;
   }
 }/*# sourceMappingURL=Styles.css.map */
